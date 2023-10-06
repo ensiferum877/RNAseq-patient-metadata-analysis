@@ -21,10 +21,9 @@ st.markdown("""
 
 # Load the data
 def load_data():
-    return pd.read_csv('Outputs/DF_03102023_v2.csv')
+    return pd.read_csv('Streamlit_input/minimal_DF_03102023.csv')
 
 data = load_data()
-data = data.drop(columns=['Unnamed: 0'])
 
 # Dropdown filters in the sidebar with titles
 st.sidebar.header("Filters")
