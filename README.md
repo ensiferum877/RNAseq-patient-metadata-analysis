@@ -29,11 +29,9 @@ pandas, matplotlib, numpy, seaborn, streamlit, and other dependencies as mention
 
 **Running the Jupyter Notebook:**
 Navigate to the directory containing the Jupyter notebook.
-Run the command: jupyter notebook Data_processing.ipynb
 
-**Launching the Streamlit Dashboard:**
-Navigate to the directory containing the dashboard.py script.
-Run the command: streamlit run dashboard.py
+**Streamlit Dashboard:**
+The app has been deployed in stremlit share: https://rnaseq-patient-metadata-analysis-mpc4xsqfgfyzuqr7a2pscn.streamlit.app
 
 # Contributions
 
