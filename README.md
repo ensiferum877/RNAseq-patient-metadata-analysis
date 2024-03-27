@@ -6,7 +6,15 @@ This repository provides a comprehensive workflow that covers several tasks such
 
 # Project Overview
 
-In this project, I extensively analyzed RNA-seq patient metadata. My primary focus was to derive insights from **patient medication data**, particularly the categorization of drugs between disease and non-disease modifying drugs, and those specifically for Parkinson's disease.
+In this project, I extensively analyzed RNA-seq data. The analysis focused on the creation of several notebooks that spans from:
+
+- **data pre-processing**
+- **patient selection**
+- **file management**
+- **exploratory analyses** to
+- **differential expression**
+
+Our objective is to leverage this rich dataset to identify biomarkers for patients with Parkinson Disease (PD).
 
 # Repository Structure
 
