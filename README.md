@@ -20,13 +20,14 @@ Our objective is to leverage this rich dataset to identify biomarkers for patien
 - **S1_DataProcessing**
 
 This notebook focuses on illustrating how to process **RNA-seq patient metadata**. It covers several tasks such as:  
-  -data cleaning, 
-  - imputation,
-  - advanced feature engineering
+    - data cleaning, 
+    - imputation,
+    - advanced feature engineering
 
 particularly emphasizing drug categorization. The notebook utilizes **GPT-4** to perform the classification of medication data. Furthermore, it merges various datasets, and performs patient aggregation and feature engineering to calculate medication durations. The outcome is a comprehensive dataframe ready for further analysis, providing insights into patient medication patterns and their implications.
 
-Patient_Selection.ipynb
+- **S2_PatientSelection**
+  
 This notebook focuses on selecting patient cohorts based on specific criteria. It includes steps for loading and merging datasets to form a comprehensive patient dataset, followed by descriptive analyses to understand the demographics and medication histories of the selected patients.
 
 MovingFilesToMountFolder.ipynb
