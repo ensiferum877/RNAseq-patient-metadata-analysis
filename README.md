@@ -4,6 +4,8 @@ Welcome to the GitHub repository for the analysis of RNA-seq patient metadata!.
 
 This repository provides a comprehensive workflow that covers several tasks such as  **data preprocessing**, **feature engineering**, and **interactive visualization**.
 
+**RNA-seq Analysis** - **Parkinson's Disease** - **Python** - **R** - **GPT-4**
+
 # Project Overview
 
 In this project, I extensively analyzed RNA-seq data. The analysis focused on the creation of several notebooks that spans from:
